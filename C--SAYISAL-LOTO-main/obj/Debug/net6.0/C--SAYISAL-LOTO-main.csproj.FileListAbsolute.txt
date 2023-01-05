@@ -1,0 +1,15 @@
+C:\Users\WT-OGRENCI-01\Desktop\C--SAYISAL-LOTO-main\bin\Debug\net6.0\C--SAYISAL-LOTO-main.exe
+C:\Users\WT-OGRENCI-01\Desktop\C--SAYISAL-LOTO-main\bin\Debug\net6.0\C--SAYISAL-LOTO-main.deps.json
+C:\Users\WT-OGRENCI-01\Desktop\C--SAYISAL-LOTO-main\bin\Debug\net6.0\C--SAYISAL-LOTO-main.runtimeconfig.json
+C:\Users\WT-OGRENCI-01\Desktop\C--SAYISAL-LOTO-main\bin\Debug\net6.0\C--SAYISAL-LOTO-main.dll
+C:\Users\WT-OGRENCI-01\Desktop\C--SAYISAL-LOTO-main\bin\Debug\net6.0\C--SAYISAL-LOTO-main.pdb
+C:\Users\WT-OGRENCI-01\Desktop\C--SAYISAL-LOTO-main\obj\Debug\net6.0\C--SAYISAL-LOTO-main.csproj.AssemblyReference.cache
+C:\Users\WT-OGRENCI-01\Desktop\C--SAYISAL-LOTO-main\obj\Debug\net6.0\C--SAYISAL-LOTO-main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WT-OGRENCI-01\Desktop\C--SAYISAL-LOTO-main\obj\Debug\net6.0\C--SAYISAL-LOTO-main.AssemblyInfoInputs.cache
+C:\Users\WT-OGRENCI-01\Desktop\C--SAYISAL-LOTO-main\obj\Debug\net6.0\C--SAYISAL-LOTO-main.AssemblyInfo.cs
+C:\Users\WT-OGRENCI-01\Desktop\C--SAYISAL-LOTO-main\obj\Debug\net6.0\C--SAYISAL-LOTO-main.csproj.CoreCompileInputs.cache
+C:\Users\WT-OGRENCI-01\Desktop\C--SAYISAL-LOTO-main\obj\Debug\net6.0\C--SAYISAL-LOTO-main.dll
+C:\Users\WT-OGRENCI-01\Desktop\C--SAYISAL-LOTO-main\obj\Debug\net6.0\refint\C--SAYISAL-LOTO-main.dll
+C:\Users\WT-OGRENCI-01\Desktop\C--SAYISAL-LOTO-main\obj\Debug\net6.0\C--SAYISAL-LOTO-main.pdb
+C:\Users\WT-OGRENCI-01\Desktop\C--SAYISAL-LOTO-main\obj\Debug\net6.0\C--SAYISAL-LOTO-main.genruntimeconfig.cache
+C:\Users\WT-OGRENCI-01\Desktop\C--SAYISAL-LOTO-main\obj\Debug\net6.0\ref\C--SAYISAL-LOTO-main.dll
